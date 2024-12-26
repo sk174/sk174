@@ -1,39 +1,12 @@
-# 👋 Hello, I'm Shubham Kokate!
+# <a href="https://shubhamkokate.github.io" target="_blank">My Personal Website</a> #
 
-🎓 **Aspiring Software Engineer** | 🌐 **Web Developer** | 🔐 **Blockchain Enthusiast**  
-📍 Maharashtra, India  
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/shubhamkokate174/shubhamkokate.github.io/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://shubhamkokate.github.io)
+[![Author](https://img.shields.io/badge/Author-Shubham%20Kokate-blue.svg)](https://www.linkedin.com/in/shubham-kokate-549004256/)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-27%20December%202024-yellow.svg)](https://github.com/shubhamkokate174/shubhamkokate.github.io/commit/master)
 
----
+This website serves as an online résumé and displays my web presence, story, work experience, education, skills, and contact information. It was created using **ReactJS**, **Bootstrap**, and **CSS**.
 
-### 📜 **About Me**
-- 🎓 Final-year Computer Science and Engineering student at **P.R. Pote College Of Engineering And Management** (CGPA: 8.3/10).  
-- 🌟 Passionate about solving real-world problems with technology and creating meaningful digital experiences.  
-- 💼 Former Web Development Intern at **Webakruti Solutions**, where I honed my skills in front-end development and responsive design.  
-- 🌱 Currently exploring blockchain technology and smart contracts.
+![Personal Résumé Website](https://raw.githubusercontent.com/shubhamkokate174/shubhamkokate.github.io/main/website-display.webp)
 
----
-
-### 💻 **Technical Skills**
-- **Programming Languages:** C, Java, JavaScript  
-- **Development:** HTML, CSS, React.js, Node.js  
-- **Databases:** MySQL, MongoDB  
-- **Version Control:** Git, GitHub  
-
----
-
-### 📫 **Contact Me**
-- 📱 +91 8600021773  
-- 📧 shubhamkokate174@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/shubham-kokate-549004256)  
-- 🖥️ [LeetCode](https://leetcode.com/u/Sk174/)  
-
----
-
-### 🎯 **Beyond Code**
-- 🏏 University-level cricket player, showcasing teamwork and strategic thinking.  
-- 🤝 Volunteered with an NGO and actively participated in NSS events, emphasizing community service.  
-- 🧠 Competed in inter-college coding competitions, sharpening problem-solving and programming skills.
-
----
-
-🌟 *"Empowering technology with creativity and innovation!"*
+Please hit me up at [shubhamkokate174@gmail.com](mailto:shubhamkokate174@gmail.com) if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
