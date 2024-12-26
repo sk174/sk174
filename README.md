@@ -21,31 +21,6 @@
 
 ---
 
-### 🛠️ **Projects**
-#### 1. **Distributed Storage System with Blockchain Technology**
-- Developed a decentralized storage system to enhance **data security** and **integrity**.  
-- **Tech Stack:** HTML, CSS, React, Solidity  
-- Highlights:
-  - Implemented a responsive user interface for improved experience.  
-  - Created smart contracts with Solidity for secure and reliable data transactions.  
-  - Built a peer-to-peer network to address centralized storage risks like data breaches.
-
-#### 2. **Expense Tracker Application**
-- Designed an application for managing personal finances.  
-- **Tech Stack:** HTML, CSS, React.js, Node.js, MySQL  
-- Highlights:
-  - Enabled users to track daily expenses and set budgets.  
-  - Integrated dynamic charts for detailed insights into spending habits.  
-  - Focused on creating an intuitive and user-friendly interface.
-
----
-
-### 🌟 **Publications**
-- **"Decentralized Cloud Storage System Using Blockchain"**  
-  Published in the *International Journal for Science and Advanced Research in Technology* (Issue 12, March 2024).
-
----
-
 ### 📫 **Contact Me**
 - 📱 +91 8600021773  
 - 📧 shubhamkokate174@gmail.com  
