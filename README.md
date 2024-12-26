@@ -1,20 +1,64 @@
-<h1 align="center">Hi 👋, I'm Shubham Kokate</h1>
-<h3 align="center">Software Developer</h3>
+# 👋 Hello, I'm Shubham Kokate!
 
-- 🌱 I’m currently learning **MERN Stack**
+🎓 **Aspiring Software Engineer** | 🌐 **Web Developer** | 🔐 **Blockchain Enthusiast**  
+📍 Maharashtra, India  
 
-- 💬 Ask me about **DSA**
+---
 
-- 📫 How to reach me **shubhamkokate174@gmail.com**
+### 📜 **About Me**
+- 🎓 Final-year Computer Science and Engineering student at **P.R. Pote College Of Engineering And Management** (CGPA: 8.3/10).  
+- 🌟 Passionate about solving real-world problems with technology and creating meaningful digital experiences.  
+- 💼 Former Web Development Intern at **Webakruti Solutions**, where I honed my skills in front-end development and responsive design.  
+- 🌱 Currently exploring blockchain technology and smart contracts.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qOLHxsCLLWMowC_Q_OzmqZcT5Kyt9hY1/view?usp=sharing](https://drive.google.com/file/d/1qOLHxsCLLWMowC_Q_OzmqZcT5Kyt9hY1/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubham-kokate174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kokate174" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sk174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sk174" height="30" width="40" /></a>
-</p>
+### 💻 **Technical Skills**
+- **Programming Languages:** C, Java, JavaScript  
+- **Development:** HTML, CSS, React.js, Node.js  
+- **Databases:** MySQL, MongoDB  
+- **Version Control:** Git, GitHub  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
+### 🛠️ **Projects**
+#### 1. **Distributed Storage System with Blockchain Technology**
+- Developed a decentralized storage system to enhance **data security** and **integrity**.  
+- **Tech Stack:** HTML, CSS, React, Solidity  
+- Highlights:
+  - Implemented a responsive user interface for improved experience.  
+  - Created smart contracts with Solidity for secure and reliable data transactions.  
+  - Built a peer-to-peer network to address centralized storage risks like data breaches.
+
+#### 2. **Expense Tracker Application**
+- Designed an application for managing personal finances.  
+- **Tech Stack:** HTML, CSS, React.js, Node.js, MySQL  
+- Highlights:
+  - Enabled users to track daily expenses and set budgets.  
+  - Integrated dynamic charts for detailed insights into spending habits.  
+  - Focused on creating an intuitive and user-friendly interface.
+
+---
+
+### 🌟 **Publications**
+- **"Decentralized Cloud Storage System Using Blockchain"**  
+  Published in the *International Journal for Science and Advanced Research in Technology* (Issue 12, March 2024).
+
+---
+
+### 📫 **Contact Me**
+- 📱 +91 8600021773  
+- 📧 shubhamkokate174@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shubham-kokate-549004256)  
+- 🖥️ [LeetCode](https://leetcode.com/u/Sk174/)  
+
+---
+
+### 🎯 **Beyond Code**
+- 🏏 University-level cricket player, showcasing teamwork and strategic thinking.  
+- 🤝 Volunteered with an NGO and actively participated in NSS events, emphasizing community service.  
+- 🧠 Competed in inter-college coding competitions, sharpening problem-solving and programming skills.
+
+---
+
+🌟 *"Empowering technology with creativity and innovation!"*
