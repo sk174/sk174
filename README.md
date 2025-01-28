@@ -72,7 +72,7 @@ Additionally, I have a keen interest in animations and have integrated various a
 ## Additional Information:
 - **Languages**: Marathi, Hindi, English  
 - **Interests**: Trekking, Cycling, Driving, Animation Design  
-- Solved **150+** Data Structures and Algorithms challenges on **LeetCode**, showcasing problem-solving skills.
+- Solved **100+** Data Structures and Algorithms challenges on **LeetCode**, showcasing problem-solving skills.
 
 ## Connect with Me:
 - **GitHub**: [github.com/sk174](https://github.com/sk174)  
