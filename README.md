@@ -31,7 +31,7 @@ Additionally, I have a keen interest in animations and have integrated various a
 
 
 - **Backend Technologies**:  
-  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/Express.js-E34F26?style=for-the-badge&logo=express&logoColor=white)
     
 
 - **Database**:  
