@@ -4,7 +4,7 @@
 - Phone: +91 8600021773
 - Email: shubhamkokate174@gmail.com
 - GitHub: [github.com/sk174](https://github.com/sk174)
-- LinkedIn: [[Your LinkedIn Profile Link](https://www.linkedin.com/in/shubham-kokate174/)]
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shubham-kokate174/)]
 
 ## Summary:
 I am a **Full-Stack Developer** skilled in **React.js**, **Node.js**, **Express**, **MongoDB**, and **SQL**. I specialize in building scalable web applications and RESTful APIs. With experience in **Agile workflows** and **version control with Git**, I have a strong focus on problem-solving and delivering high-quality solutions and optimal user experiences.
