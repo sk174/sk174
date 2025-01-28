@@ -79,7 +79,7 @@ Additionally, I have a keen interest in animations and have integrated various a
 - **LinkedIn**: [Your LinkedIn Profile Link]
 
 Feel free to explore my projects and contributions. You will find animated user interfaces, smooth transitions, and engaging interactions in some of the web apps. I am always looking for opportunities to learn, collaborate, and grow as a developer.
-## Hi there 👋
+
 
 <!--
 **sk174/sk174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
